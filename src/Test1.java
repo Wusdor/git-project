@@ -6,7 +6,7 @@ public class Test1 {
                 // System.out.println("Радиус меньше 0");
         for (; ; ) {
             double S;
-            System.out.print("Введите радиус: ");
+            System.out.print("Введите пожалуйста радиус: ");
             double R = in.nextDouble();
             if (R > 0) {
 
