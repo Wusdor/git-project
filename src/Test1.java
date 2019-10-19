@@ -14,7 +14,7 @@ public class Test1 {
                 System.out.printf("Площадь круга равна: %1$.3f" , S);
             } else System.out.println("Радиус меньше 0");
 
-            System.out.println("\n" + "Хотите ли вы продолжить? (y/n) ");
+            System.out.println("\n" + "Хотите ли вы продолжить (master)? (y/n) ");
             String input = in.next();
             switch (input) {
                 case "n": {
